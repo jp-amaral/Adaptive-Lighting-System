@@ -1,0 +1,243 @@
+{
+    "1": {
+        "latitude": 40.636032,
+        "longitude": -8.646632,
+        "status": "On",
+        "rsu": true
+    }, 
+    "2": {
+        "latitude": 40.635939,
+        "longitude": -8.646695,
+        "status": "On",
+        "rsu": false
+    },
+    "3": {
+        "latitude": 40.636095,
+        "longitude": -8.646893,
+        "status": "On",
+        "rsu": false
+    },
+    "4": {
+        "latitude": 40.636454, 
+        "longitude": -8.647312,
+        "status": "On",
+        "rsu": false
+    },
+    "5": {
+        "latitude": 40.635648,  
+        "longitude": -8.646314,
+        "status": "On",
+        "rsu": false
+    },
+
+    "6": {
+        "latitude": 40.635727,   
+        "longitude": -8.647118,
+        "status": "On",
+        "rsu": true
+    },
+    "7": {
+        "latitude": 40.635802,   
+        "longitude": -8.647199,
+        "status": "On",
+        "rsu": false
+    },
+    "8": {
+        "latitude": 40.636169, 
+        "longitude": -8.647692,
+        "status": "On",
+        "rsu": false
+    },
+
+    "9": {
+        "latitude": 40.636570, 
+        "longitude": -8.648376,
+        "status": "On",
+        "rsu": false
+    },
+    "10": {
+        "latitude": 40.636584,  
+        "longitude": -8.648210,
+        "status": "On",
+        "rsu": true
+    },
+
+    "11": {
+        "latitude": 40.636991,  
+        "longitude": -8.647816, 
+        "status": "On",
+        "rsu": true
+    },
+    "12": {
+        "latitude": 40.636855, 
+        "longitude": -8.647819 , 
+        "status": "On",
+        "rsu": false
+    },
+    
+    "13": {
+        "latitude": 40.637100, 
+        "longitude": -8.649072 , 
+        "status": "On",
+        "rsu": true
+    },
+    "14": {
+        "latitude": 40.637285,  
+        "longitude": -8.648828 , 
+        "status": "On",
+        "rsu": false
+    },
+
+    "15": {
+        "latitude": 40.637318, 
+        "longitude": -8.649641, 
+        "status": "On",
+        "rsu": true
+    },
+
+    "16": {
+        "latitude": 40.638006, 
+        "longitude": -8.649255, 
+        "status": "On",
+        "rsu": true
+    },
+
+    "17": {
+        "latitude": 40.638118, 
+        "longitude": -8.649236 , 
+        "status": "On",
+        "rsu": false
+    },
+
+    "18": {
+        "latitude": 40.637462, 
+        "longitude": -8.648595 , 
+        "status": "On",
+        "rsu": false
+    },
+
+
+    
+    "19": {
+        "latitude": 40.640266, 
+        "longitude": -8.663235,
+        "status": "On",
+        "rsu": true
+    },
+    "20": {
+        "latitude": 40.640589,
+        "longitude":  -8.662760 ,
+        "status": "On",
+        "rsu": false
+    },
+    "21": {
+        "latitude": 40.640974, 
+        "longitude":  -8.662274 ,
+        "status": "On",
+        "rsu": false
+    },
+    "22": {
+        "latitude": 40.641357,
+        "longitude": -8.661778,
+        "status": "On",
+        "rsu": true
+    },
+    "23": {
+        "latitude": 40.641748,   
+        "longitude":  -8.661274,
+        "status": "On",
+        "rsu": false
+    },
+    "24": {
+        "latitude": 40.642098,      
+        "longitude": -8.660770,
+        "status": "On",
+        "rsu": false
+    },
+    "25": {
+        "latitude": 40.642432,      
+        "longitude": -8.660319,
+        "status": "On",
+        "rsu": true
+    },  
+    "26": {
+        "latitude": 40.642798,      
+        "longitude": -8.659793,
+        "status": "On",
+        "rsu": false
+    },
+    "27": {
+        "latitude": 40.643205,     
+        "longitude": -8.659192, 
+        "status": "On",
+        "rsu": false
+    },
+    "28": {
+        "latitude": 40.643487,   
+        "longitude": -8.658731 ,
+        "status": "On",
+        "rsu": true
+    },
+
+    
+    "29": {
+        "latitude": 40.637581, 
+        "longitude": -8.646957 ,
+        "status": "On",
+        "rsu": false
+    },
+    "30": {
+        "latitude": 40.638147, 
+        "longitude":-8.646200 ,
+        "status": "On",
+        "rsu": true
+    },
+    "31": {
+        "latitude": 40.638096,
+        "longitude": -8.646072,
+        "status": "On",
+        "rsu": false
+    },
+    "32": {
+        "latitude": 40.638550, 
+        "longitude": -8.646474,
+        "status": "On",
+        "rsu": false
+    },
+    "33": {
+        "latitude": 40.639000, 
+        "longitude": -8.647040, 
+        "status": "On",
+        "rsu": false
+    },
+    "34": {
+        "latitude": 40.639317,
+        "longitude":  -8.647598, 
+        "status": "On",
+        "rsu": true
+    },
+    "35": {
+        "latitude": 40.639903, 
+        "longitude":  -8.648805,
+        "status": "On",
+        "rsu": false
+    },
+    "36": {
+        "latitude": 40.639464, 
+        "longitude":  -8.649411,
+        "status": "On",
+        "rsu": true
+    },
+    "37": {
+        "latitude": 40.639051, 
+        "longitude":  -8.649076,
+        "status": "On",
+        "rsu": false
+    },
+    "38": {
+        "latitude": 40.638688,
+        "longitude":   -8.648470,
+        "status": "On",
+        "rsu": true
+    }
+}

@@ -1,0 +1,39 @@
+.map-container {
+    height: 80vh;
+    width: 90%;
+    z-index: 0;
+    box-shadow: 6px 6px 16px #00000060;
+    border-radius: 3vh;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 90%;
+    z-index: 0;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 20%;
+    z-index: 0;
+}
+
+.toggle {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    z-index: 1;
+    justify-content: center;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,11 @@
+{
+    "station_id": -1,
+    "station_latitude": -1.0,
+    "station_longitude": -1.0,
+    "dest_stations": {"-1":-1},
+    "intensity":-1,
+    "obu_latitude": -1.0,
+    "obu_longitude": -1.0,
+    "obu_id": -1.0,
+    "timestamp": "2019-01-01 00:00:00:0"
+}
