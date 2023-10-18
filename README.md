@@ -1,5 +1,5 @@
 # Smart Adaptive Lighting System
-Final project for the course Redes e Sistemas Autónomos (Autonomous Networks and Systems).</br>
+Final project for the course Redes e Sistemas Autónomos (Autonomous Networks and Systems) 2023.</br>
 
 ## Infrastructure and Communication  ##
 
